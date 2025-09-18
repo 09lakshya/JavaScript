@@ -1,18 +1,14 @@
-/*
 function greet() {
-    console.log("Hello")
+  console.log("Hello");
 }
-greet()
-*/
+greet();
 
-/*
-function sum(x,y) {
-    return x+y
+function sum(x, y) {
+  return x + y;
 }
-console.log("The sum is:",sum(12,90))
-*/
+console.log("The sum is:", sum(12, 90));
 
 function square(x) {
-    return x**2
+  return x ** 2;
 }
-console.log("The square is:",square(2))
+console.log("The square is:", square(2));
